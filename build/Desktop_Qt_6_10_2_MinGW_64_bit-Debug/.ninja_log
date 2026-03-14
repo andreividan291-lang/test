@@ -1,0 +1,9 @@
+# ninja log v6
+9	673	7952099802554700	HelloQt_autogen/timestamp	2d7840c84b004f6a
+9	673	7952099802554700	HelloQt_autogen/mocs_compilation.cpp	2d7840c84b004f6a
+9	673	7952099802554700	D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/HelloQt_autogen/timestamp	2d7840c84b004f6a
+9	673	7952099802554700	D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/HelloQt_autogen/mocs_compilation.cpp	2d7840c84b004f6a
+677	2465	7952099803380684	CMakeFiles/HelloQt.dir/HelloQt_autogen/mocs_compilation.cpp.obj	3fd36df5bee60c4d
+679	2515	7952099803404003	CMakeFiles/HelloQt.dir/main.cpp.obj	f42ea5d545dda3be
+681	2550	7952099803424004	CMakeFiles/HelloQt.dir/mainwindow.cpp.obj	5200a173ae215b0
+2550	2797	7952099822107039	HelloQt.exe	c7932de4c25babe0
