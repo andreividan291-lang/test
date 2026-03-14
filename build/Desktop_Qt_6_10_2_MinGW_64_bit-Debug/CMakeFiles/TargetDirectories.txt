@@ -1,0 +1,9 @@
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/HelloQt.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/HelloQt_autogen_timestamp_deps.dir
+D:/Teste_Proiecte_POO/HelloQt/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/HelloQt_autogen.dir
